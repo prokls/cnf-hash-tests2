@@ -1,0 +1,4 @@
+c  one integer is represented as int64
+c  hence exceeding 2^64-1 = 18446744073709551615 is interesting
+p cnf 18446744073709551616 1
+18446744073709551616 0
